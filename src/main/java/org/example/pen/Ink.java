@@ -1,4 +1,4 @@
-package com.scaler.lld.lecture.machine_coding_case_studies.pen;
+package org.example.pen;
 
 import java.util.List;
 
